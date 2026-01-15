@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-15T10:25:51.133202+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2026-01-15T12:03:49.151306+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
           "url": "https://www.cls.cn/detail/2258166",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
+        },
+        {
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：将于2月3日与美国总统特朗普会面。",
@@ -30,15 +42,26 @@
           "time_info": "10时25分"
         },
         {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
+          "title": "特朗普被曝希望对伊朗的军事打击快速且具决定性",
+          "url": "https://wallstreetcn.com/livenews/3037513",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时03分"
+        },
+        {
+          "title": "委内瑞拉代总统和特朗普通话",
+          "url": "https://www.douyin.com/hot/2368035",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "特朗普：虽然鲍威尔正面临调查 但暂时无意炒了他",
@@ -74,6 +97,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
+          "url": "https://www.zhihu.com/question/1994760082911675910",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
           "title": "特朗普参观汽车工厂和民众对骂还竖中指，白宫：回应合适",
           "url": "https://m.thepaper.cn/newsDetail_forward_32380410",
           "source": "澎湃新闻",
@@ -94,6 +128,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3037497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "韩国官员：若法院对特朗普的关税裁决不利 韩国将寻求“最佳”应对方案",
+          "url": "https://flash.jin10.com/detail/20260115110807629800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "特朗普将在几周内宣布关于美联储主席的决定。（路透）",
@@ -121,8 +177,30 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
+          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空",
+          "url": "https://news.ifeng.com/c/8pvbgYIqXSz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
+        },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
           "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
@@ -135,37 +213,60 @@
           "time_info": "10时25分"
         },
         {
-          "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
-          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
-          "source": "凤凰网",
+          "title": "伊朗重新开放领空",
+          "url": "https://wallstreetcn.com/livenews/3037518",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空",
-          "url": "https://news.ifeng.com/c/8pvbgYIqXSz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时03分"
         },
         {
           "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
           "url": "https://www.cls.cn/detail/2258108",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
+        },
+        {
+          "title": "伊朗关闭领空",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时03分"
+        },
+        {
+          "title": "伊朗发布通告暂时关闭领空",
+          "url": "https://www.douyin.com/hot/2368079",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "伊朗外长：政府已完全掌控局面 局势已平静",
@@ -177,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.douyin.com/hot/2368070",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "伊朗延长领空关闭时间",
@@ -199,6 +311,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "伊朗外长：政府已完全掌控局面",
+          "url": "https://www.toutiao.com/trending/7595402470608621094/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
+        },
+        {
+          "title": "FLIGHTRADAR24：随着关闭伊朗空域的航行通告到期，部分航班正前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260115110539754800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         },
         {
           "title": "伊朗宣布暂时关闭领空",
@@ -225,19 +359,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
           "url": "https://www.cls.cn/detail/2258154",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 12时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "复盘苹果AI为何转投谷歌",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "12时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
+          "url": "https://flash.jin10.com/detail/20260115110344751800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     }
