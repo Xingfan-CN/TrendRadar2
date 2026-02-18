@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T20:44:45.042860+08:00",
-  "total_titles_processed": 1663,
+  "generated_at": "2026-02-18T22:04:15.570435+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 20时44分]"
+          "appearance_count": 7,
+          "time_info": "[16时37分 ~ 22时04分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -245,6 +245,17 @@
           "time_info": "[17时40分 ~ 19时34分]"
         },
         {
+          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
+          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时04分]"
+        },
+        {
           "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
           "url": "https://wallstreetcn.com/livenews/3056209",
           "source": "华尔街见闻-快讯",
@@ -340,17 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时47分 ~ 03时43分]"
-        },
-        {
-          "title": "泽连斯基：特朗普只对乌克兰施压不公平",
-          "url": "https://news.ifeng.com/c/8qqlQxdDOZa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
         },
         {
           "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
@@ -532,7 +532,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -623,8 +623,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时15分 ~ 22时04分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -711,6 +711,18 @@
           "time_info": "[16时37分 ~ 17时40分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时44分 ~ 22时04分]"
+        },
+        {
           "title": "哈梅内伊：美国无法摧毁伊朗",
           "url": "https://www.toutiao.com/trending/7606880300451086355/",
           "source": "今日头条",
@@ -746,17 +758,6 @@
           "time_info": "[17时40分 ~ 18时38分]"
         },
         {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时44分"
-        },
-        {
           "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
           "url": "https://flash.jin10.com/detail/20260218041904754800",
           "source": "金十数据",
@@ -790,6 +791,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "俄罗斯与伊朗海军在阿曼湾举行演练",
+          "url": "https://wallstreetcn.com/livenews/3056340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
           "url": "https://flash.jin10.com/detail/20260218023510875800",
           "source": "金十数据",
@@ -818,7 +830,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -854,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "卫星图像显示，在美伊关系紧张之际，伊朗正在修复和加固一些设施。",
+          "url": "https://flash.jin10.com/detail/20260218212236759800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -925,7 +948,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -936,8 +959,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时26分 ~ 20时44分]"
+          "appearance_count": 14,
+          "time_info": "[09时26分 ~ 22时04分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -961,8 +984,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时49分 ~ 20时44分]"
+          "appearance_count": 26,
+          "time_info": "[00时49分 ~ 22时04分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -972,8 +995,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时15分 ~ 20时44分]"
+          "appearance_count": 13,
+          "time_info": "[12时15分 ~ 22时04分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -996,6 +1019,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时40分 ~ 22时04分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3056347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -1044,18 +1090,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时23分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时40分 ~ 20时44分]"
         },
         {
           "title": "周二（2月17日）纽约尾盘，彭博电动汽车价格回报指数跌0.36%，报3612.03点，全天处于下跌状态，美股开盘后短线跳水至3591.48点、随后逐步收复这一波失地。 成分股中，EVgo目前跌约7.9%，“特斯拉劲敌”Rivian跌6.8%，Lucid集团跌3.7%，普拉格动力跌3.4%，MobilEye Global Inc.则涨1.5%，美国雅宝涨2.3%，禾赛科技涨4.6%。",
@@ -1124,7 +1158,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         },
@@ -1300,7 +1334,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时44分"
         }
@@ -1406,7 +1440,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "两年期美债收益率涨约2.5个基点",
@@ -1430,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时49分 ~ 00时50分]"
+        },
+        {
+          "title": "摩根大通美债客户调查显示多头占比有所回落",
+          "url": "https://wallstreetcn.com/livenews/3056330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     },
