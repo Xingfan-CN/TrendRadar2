@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T11:34:27.998294+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2026-05-19T15:39:13.751301+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -54,6 +54,32 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时27分 ~ 07时59分]"
+        },
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击",
+          "url": "https://www.cls.cn/detail/2374774",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 15时39分]"
         },
         {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
@@ -141,17 +167,6 @@
           "time_info": "03时29分"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
           "url": "https://flash.jin10.com/detail/20260519030250439800",
           "source": "金十数据",
@@ -174,6 +189,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "【外交部：中美同意开展人工智能政府间对话】5月19日，外交部发言人郭嘉昆主持例行记者会。有记者提问，据报道，中美两国元首会晤时就人工智能监管问题进行了交流，同意开展对话合作。中方对此有何评论？郭嘉昆表示，作为两个人工智能大国，中美双方应该携手促进人工智能发展和治理，推动人工智能更好服务人类文明进步和国际社会共同福祉。“特朗普总统访华期间，两国元首就人工智能问题进行了建设性交流，同意开展人工智能政府间对话。”郭嘉昆说。",
+          "url": "https://wallstreetcn.com/livenews/3105889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "评论员：中俄关系不受特朗普炒G2影响",
           "url": "https://www.toutiao.com/trending/7641079190293430308/",
           "source": "今日头条",
@@ -188,19 +214,6 @@
           "time_info": "[01时27分 ~ 06时53分]"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击",
-          "url": "https://www.cls.cn/detail/2374774",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 11时34分]"
-        },
-        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -211,6 +224,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时28分 ~ 03时29分]"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
         },
         {
           "title": "外交部回应特朗普涉台表态",
@@ -234,6 +270,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时59分]"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "WTI原油期货7月跌2.1%，特朗普暂缓袭击伊朗的计划。",
@@ -272,17 +330,6 @@
           "time_info": "[06时53分 ~ 11时34分]"
         },
         {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
           "title": "特朗普将在白宫为沃什主持就职，市场紧盯：他会听总统的话降息吗？",
           "url": "https://flash.jin10.com/detail/20260519072301836800",
           "source": "金十数据",
@@ -316,17 +363,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2374803",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
           "title": "美国总统特朗普：伊朗不会拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260519054721286800",
           "source": "金十数据",
@@ -344,7 +380,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -641,7 +677,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
         },
@@ -671,7 +707,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -679,11 +715,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 11时34分]"
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 15时39分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -708,8 +745,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时27分 ~ 15时39分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时27分 ~ 11时34分]"
+          "time_info": "[03时29分 ~ 15时39分]"
         },
         {
           "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
@@ -778,18 +827,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAJ",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时29分 ~ 11时34分]"
-        },
-        {
           "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
           "url": "https://wallstreetcn.com/livenews/3105662",
           "source": "华尔街见闻-快讯",
@@ -848,6 +885,41 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
           "url": "https://news.ifeng.com/c/8tEPz9vOwBG",
           "source": "凤凰网",
@@ -857,17 +929,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时28分]"
-        },
-        {
-          "title": "伊朗最高领袖重申将考虑开辟新战线",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         },
         {
           "title": "据伊朗迈赫新闻社报道，霍尔木兹海峡附近的凯什姆岛已启动防空系统，具体原因尚不清楚。",
@@ -903,6 +964,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离",
+          "url": "https://wallstreetcn.com/livenews/3105877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
           "url": "https://wallstreetcn.com/livenews/3105528",
           "source": "华尔街见闻-快讯",
@@ -925,17 +997,6 @@
           "time_info": "01时28分"
         },
         {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        },
-        {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
           "url": "https://wallstreetcn.com/livenews/3105550",
           "source": "华尔街见闻-快讯",
@@ -945,17 +1006,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         },
         {
           "title": "伊朗总统：对话并不意味着屈服",
@@ -986,9 +1036,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "OECD秘书长Cormann：伊朗冲突给经济和通胀带来了压力。 存在大量下行风险。存在第二轮效应的风险。",
+          "url": "https://wallstreetcn.com/livenews/3105859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗最高领袖重申将考虑开辟新战线",
@@ -1013,6 +1074,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "伊朗总统：应为在战争时期失业人群提供就业机会",
+          "url": "https://flash.jin10.com/detail/20260519151204530800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "伊朗在格什姆岛发现美以无人机。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3105574",
           "source": "华尔街见闻-快讯",
@@ -1030,9 +1102,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "伊朗延长德黑兰两座国际机场航班运行时间",
+          "url": "https://wallstreetcn.com/livenews/3105854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "美方被曝将暂停对伊朗的石油制裁",
@@ -1063,6 +1146,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 15时39分]"
+        },
+        {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
@@ -1074,15 +1168,30 @@
           "time_info": "[01时27分 ~ 05时05分]"
         },
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
+          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
+          "url": "https://www.cls.cn/detail/2374806",
+          "source": "财联社热门",
           "ranks": [
+            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 11时34分]"
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 15时39分]"
+        },
+        {
+          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
+          "url": "https://www.cls.cn/detail/2374787",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 15时39分]"
         },
         {
           "title": "美股迎来史上最大电力并购案 SpaceX概念股盘前走高 | 今夜看点",
@@ -1097,31 +1206,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时27分 ~ 11时34分]"
-        },
-        {
-          "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
-          "url": "https://www.cls.cn/detail/2374806",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 11时34分]"
-        },
-        {
-          "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
-          "url": "https://www.cls.cn/detail/2374787",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 11时34分]"
         },
         {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
@@ -1215,8 +1299,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
+          "url": "https://www.cls.cn/detail/2374855",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
         {
           "title": "美债收益率破5%有何影响",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
@@ -1235,9 +1330,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时34分"
+        },
+        {
+          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
+          "url": "https://wallstreetcn.com/articles/3772572",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
+          "title": "3月外国投资者美债持仓下降 管涛：地缘冲突、能源供给冲击的自然反应，4月或回升",
+          "url": "https://www.cls.cn/detail/2374826",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
@@ -1261,17 +1378,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
-        },
-        {
-          "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
-          "url": "https://wallstreetcn.com/articles/3772572",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
         },
         {
           "title": "日本官员质疑抛美债撑日元操作 担忧干预可能适得其反",
@@ -1359,37 +1465,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
           "ranks": [
-            5
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
-        {
-          "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
-          "url": "https://flash.jin10.com/detail/20260519110202141800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
           "url": "https://flash.jin10.com/detail/20260519010215789800",
@@ -1400,6 +1489,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时34分 ~ 15时39分]"
+        },
+        {
+          "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
+          "url": "https://flash.jin10.com/detail/20260519110202141800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时34分"
         }
       ]
     },
