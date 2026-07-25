@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T21:24:31.120284+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-07-25T22:57:22.147885+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
+          "url": "https://wallstreetcn.com/livenews/3139778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国总统特朗普：美国国务卿鲁比奥与副总统万斯谈论了伊朗问题。",
@@ -187,6 +198,18 @@
           "time_info": "[02时51分 ~ 04时14分]"
         },
         {
+          "title": "特朗普再打关税战 这次有何不同",
+          "url": "https://www.toutiao.com/trending/7666438148708109865/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时57分]"
+        },
+        {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
           "url": "https://wallstreetcn.com/livenews/3139596",
           "source": "华尔街见闻-快讯",
@@ -211,6 +234,28 @@
           "time_info": "[11时59分 ~ 14时17分]"
         },
         {
+          "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
+          "url": "https://flash.jin10.com/detail/20260725222304302800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://news.ifeng.com/c/8v378W8XMdI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
           "url": "https://flash.jin10.com/detail/20260725034104359800",
           "source": "金十数据",
@@ -220,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
+          "url": "https://wallstreetcn.com/articles/3777927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国总统特朗普：因为（山火产生的）烟雾问题，将对加拿大征收高额关税。",
@@ -288,17 +344,6 @@
           "time_info": "02时51分"
         },
         {
-          "title": "特朗普再打关税战 这次有何不同",
-          "url": "https://www.toutiao.com/trending/7666438148708109865/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
           "title": "美国总统特朗普：或者我们可以和伊朗达成协议，但不认为伊朗已准备好达成协议。",
           "url": "https://flash.jin10.com/detail/20260725033458339800",
           "source": "金十数据",
@@ -338,7 +383,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时24分"
         },
@@ -533,7 +578,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 36,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -545,8 +590,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时51分 ~ 21时24分]"
+          "appearance_count": 15,
+          "time_info": "[02时51分 ~ 22时57分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -579,8 +624,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 21时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 22时57分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -609,6 +654,17 @@
           "time_info": "02时51分"
         },
         {
+          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
+          "url": "https://wallstreetcn.com/livenews/3139779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗与巴基斯坦外长会晤，重点讨论两国双边关系及地区和国际形势发展。",
           "url": "https://flash.jin10.com/detail/20260725024021054800",
           "source": "金十数据",
@@ -618,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
+          "url": "https://flash.jin10.com/detail/20260725223644816800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "伊朗胡齐斯坦省副省长：有关美国再次袭击伊朗与伊拉克接壤的沙拉姆切边境口岸的传闻不属实。",
@@ -831,6 +898,18 @@
           "time_info": "[11时59分 ~ 14时17分]"
         },
         {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 22时57分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：继也门再次发动导弹袭击后，沙特境内再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260725111226216800",
           "source": "金十数据",
@@ -840,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "伊朗官员：镐山设施“目前是空的”",
+          "url": "https://flash.jin10.com/detail/20260725214500074800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
@@ -864,15 +954,15 @@
           "time_info": "04时14分"
         },
         {
-          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
-          "source": "澎湃新闻",
+          "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3139764",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "22时57分"
         },
         {
           "title": "王毅会见伊朗外长阿拉格齐",
@@ -933,8 +1023,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时06分 ~ 21时24分]"
+          "appearance_count": 9,
+          "time_info": "[08时06分 ~ 22时57分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -959,8 +1049,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时06分 ~ 21时24分]"
+          "appearance_count": 9,
+          "time_info": "[08时06分 ~ 22时57分]"
         },
         {
           "title": "AI开支担忧与地缘风险夹击美股，标普创月内最大跌幅，特斯拉跌超14%，油价破百，黄金重挫",
@@ -986,8 +1076,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时06分 ~ 21时24分]"
+          "appearance_count": 9,
+          "time_info": "[08时06分 ~ 22时57分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，新兴市场ETF收跌将近2%",
