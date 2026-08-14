@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-14T13:39:13.537180+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-08-14T15:14:14.542553+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 15时14分]"
+        },
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
           "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
@@ -21,15 +33,28 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
           "source": "凤凰网",
           "ranks": [
-            5
+            12,
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时00分 ~ 13时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
@@ -55,16 +80,15 @@
           "time_info": "00时48分"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
           "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时39分]"
+          "time_info": "[12时00分 ~ 15时14分]"
         },
         {
           "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
@@ -100,15 +124,15 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
-          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
-          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
-          "source": "凤凰网",
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时00分 ~ 13时39分]"
+          "time_info": "[13时38分 ~ 15时14分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -123,6 +147,28 @@
           "time_info": "[00时48分 ~ 06时33分]"
         },
         {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
           "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
           "url": "https://wallstreetcn.com/livenews/3149316",
           "source": "华尔街见闻-快讯",
@@ -133,17 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 06时33分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
@@ -336,7 +371,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -347,8 +382,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时14分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -360,8 +395,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 13时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 15时14分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -390,6 +425,32 @@
           "time_info": "[00时48分 ~ 09时15分]"
         },
         {
+          "title": "DeepSeek发布调价公告",
+          "url": "https://www.douyin.com/hot/2608709",
+          "source": "抖音",
+          "ranks": [
+            8,
+            6,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 15时14分]"
+        },
+        {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 15时14分]"
+        },
+        {
           "title": "DeepSeek官方Agent发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -402,19 +463,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 09时15分]"
-        },
-        {
-          "title": "DeepSeek发布调价公告",
-          "url": "https://www.douyin.com/hot/2608709",
-          "source": "抖音",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 13时39分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -431,16 +479,16 @@
           "time_info": "[00时48分 ~ 09时15分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
+          "url": "https://www.zhihu.com/question/2071361705183899939",
+          "source": "知乎",
           "ranks": [
-            8,
-            7
+            11,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时39分]"
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时14分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -452,6 +500,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时38分 ~ 13时39分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 15时14分]"
         },
         {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
@@ -504,18 +564,6 @@
           "time_info": "[00时48分 ~ 07时34分]"
         },
         {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时00分 ~ 13时39分]"
-        },
-        {
           "title": "如何看待 DeepSeek 撤回 v4Pro 正式版的公告？",
           "url": "https://www.zhihu.com/question/2071225352072999482",
           "source": "知乎",
@@ -526,17 +574,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时14分 ~ 12时02分]"
-        },
-        {
-          "title": "DeepSeek V4 大幅涨价后，现在谁才是你心中的大模型性价比之选？",
-          "url": "https://www.zhihu.com/question/2071361705183899939",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -572,6 +609,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "深度解读DeepSeek Harness",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BBDeepSeek%20Harness",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "梁文锋打新宇树科技",
@@ -613,7 +661,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -670,6 +718,19 @@
           "time_info": "[12时00分 ~ 13时39分]"
         },
         {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 15时14分]"
+        },
+        {
           "title": "伊朗将正式加入金砖国家新开发银行",
           "url": "https://news.ifeng.com/c/8vYalXCyC9Z",
           "source": "凤凰网",
@@ -679,6 +740,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时48分 ~ 06时33分]"
+        },
+        {
+          "title": "美防长称可“无限期”对伊朗进行海上封锁",
+          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时00分 ~ 15时14分]"
         },
         {
           "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
@@ -692,19 +764,6 @@
           "time_info": "07时34分"
         },
         {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时39分]"
-        },
-        {
           "title": "据伊朗法尔斯通讯社：巴勒斯坦消息人士称，以色列军队对加沙东部的多个地点发动了攻击。",
           "url": "https://flash.jin10.com/detail/20260814071431945800",
           "source": "金十数据",
@@ -714,17 +773,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "美防长称可“无限期”对伊朗进行海上封锁",
-          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时00分 ~ 13时39分]"
         },
         {
           "title": "伊朗：美若敢用核弹 全球基地将成靶子",
@@ -898,8 +946,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时34分 ~ 13时39分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 15时14分]"
         },
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1152,6 +1200,18 @@
           "time_info": "[00时48分 ~ 09时15分]"
         },
         {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时14分]"
+        },
+        {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
           "url": "https://www.zhihu.com/question/2071179550575124530",
           "source": "知乎",
@@ -1162,17 +1222,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时34分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
+          "url": "https://wallstreetcn.com/livenews/3149305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时37分"
         }
       ]
     },
@@ -1201,23 +1278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（8月13日），万得美国科技股七巨头（Magnificent 7）指数涨0.82%。 特斯拉涨3.80%，Meta Platforms涨2.74%，苹果涨1.01%，微软涨0.90%，英伟达涨0.56%，谷歌涨0.44%，亚马逊跌0.80%。",
-          "url": "https://wallstreetcn.com/livenews/3149305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         }
       ]
     }
